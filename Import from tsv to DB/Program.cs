@@ -111,6 +111,9 @@ namespace Import_from_tsv_to_DB
                     Console.WriteLine("Вы ввели не корректную команду!");
                     break;
             }
+            Departaments();
+            ShowOtherTables();
+
         }
         public static string FirstUpperName(string str)
         {
