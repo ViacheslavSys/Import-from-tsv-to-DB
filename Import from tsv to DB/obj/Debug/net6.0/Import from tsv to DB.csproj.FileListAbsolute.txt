@@ -1,0 +1,45 @@
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Import from tsv to DB.exe
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Import from tsv to DB.deps.json
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Import from tsv to DB.runtimeconfig.json
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Import from tsv to DB.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Import from tsv to DB.pdb
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.csproj.AssemblyReference.cache
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.AssemblyInfoInputs.cache
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.AssemblyInfo.cs
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\refint\Import from tsv to DB.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.pdb
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.genruntimeconfig.cache
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\ref\Import from tsv to DB.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\obj\Debug\net6.0\Import from tsv to DB.csproj.CopyComplete
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Study\Для себя\Import from tsv to DB\Import from tsv to DB\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll

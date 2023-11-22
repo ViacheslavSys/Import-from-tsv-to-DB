@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Import from tsv to DB", "Import from tsv to DB\Import from tsv to DB.csproj", "{A93297A7-6A07-4F77-BD33-D05FB00E3953}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C6153E55-9DEE-47A3-996C-46B1FBC6724D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93297A7-6A07-4F77-BD33-D05FB00E3953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93297A7-6A07-4F77-BD33-D05FB00E3953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93297A7-6A07-4F77-BD33-D05FB00E3953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93297A7-6A07-4F77-BD33-D05FB00E3953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6153E55-9DEE-47A3-996C-46B1FBC6724D}.Debug|Any CPU.ActiveCfg = Debug
+		{C6153E55-9DEE-47A3-996C-46B1FBC6724D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB9AC322-1281-49AE-807D-F0074822B2F2}
+	EndGlobalSection
+EndGlobal
